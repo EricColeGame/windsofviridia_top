@@ -3,8 +3,8 @@ import { LegalPage } from "@/components/legal-page";
 export default function AboutPage() {
   return (
     <LegalPage title="About">
-      <p>VV Ultimatum Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.</p>
-      <p>The layout, navigation, article cards, and detail format are reproduced from the target VV: ULTIMATUM wiki pages requested for this implementation.</p>
+      <p>Winds of Viridia Wiki is an independent fan-built guide hub covering demo access, movement and grappling, bosses, Totems, the Mothbug companion, and release information for new and veteran players alike.</p>
+      <p>Winds of Viridia is a single-player action adventure from Shark Jump, announced for PC and Nintendo Switch 2 with a free demo available now.</p>
     </LegalPage>
   );
 }

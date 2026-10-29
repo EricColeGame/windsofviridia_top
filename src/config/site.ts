@@ -19,18 +19,17 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Winds of Viridia Wiki",
+  shortName: "Winds of Viridia",
+  logoText: "WV",
+  tagline: "Demo Guides, Bosses, Totems & Movement Tips",
+  description: "Fan-made Winds of Viridia wiki covering the demo, movement and grappling, bosses, Totems, the Mothbug companion, and release updates.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://windsofviridia.top",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://windsofviridia.top").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://store.steampowered.com/app/5178570/Winds_of_Viridia/",
+  heroVideoId: "t_Ldq6eq0nQ", // Winds of Viridia – Reveal Trailer – Nintendo Switch 2
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    youtube: "https://www.youtube.com/watch?v=t_Ldq6eq0nQ",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
