@@ -27,7 +27,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       url: `${siteUrl}/${locale}${path === "/" ? "" : path}`,
       lastModified: new Date(),
       changeFrequency: path === "/" ? ("daily" as const) : ("weekly" as const),
-      priority: path === "/" ? 1 : path === "/bosses" ? 0.8 : 0.6,
+      priority: path === "/" ? 1 : path === "/guide" ? 0.8 : 0.6,
     })),
   );
 }

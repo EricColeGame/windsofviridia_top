@@ -8,7 +8,13 @@
   },
   "nav": {
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "combat": "Combat",
+    "mechanics": "Mechanics",
+    "platforms": "Platforms",
+    "updates": "Updates",
+    "community": "Community"
   },
   "home": {
     "meta": {
@@ -464,7 +470,30 @@
       "secondary": "Wishlist on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Winds of Viridia Guide",
+    "overviewDescription": "Beginner walkthroughs, demo tips, movement advice, and practical first-hour guidance for every Winds of Viridia explorer."
+  },
+  "combat": {
+    "overviewTitle": "Winds of Viridia Combat Guide",
+    "overviewDescription": "Boss strategies, enemy behavior, weapon choices, and combat mechanics for the toughest Winds of Viridia encounters."
+  },
+  "mechanics": {
+    "overviewTitle": "Winds of Viridia Mechanics",
+    "overviewDescription": "Learn how exploration, creature investigation, progression, Totems, and the Mothbug companion work in Winds of Viridia."
+  },
+  "platforms": {
+    "overviewTitle": "Winds of Viridia Platforms",
+    "overviewDescription": "Check Winds of Viridia release details, demo availability, Steam information, Switch 2 support, and PC system requirements."
+  },
+  "updates": {
+    "overviewTitle": "Winds of Viridia Updates",
+    "overviewDescription": "Follow Winds of Viridia announcements, trailers, demo news, and the latest developments from Shark Jump."
+  },
+  "community": {
+    "overviewTitle": "Winds of Viridia Community",
+    "overviewDescription": "Find Winds of Viridia player discussions, Reddit communities, Discord groups, and shared discoveries from the demo."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -495,9 +524,9 @@
     "officialYoutube": "Official Reveal Trailer",
     "vvBuilder": "Official Website",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Maps & Exploration",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Skills & Movement",
+    "raceGuides": "Combat Guides",
+    "bossGuides": "Gameplay Mechanics",
+    "buildGuide": "Platforms & Demo",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
