@@ -18,8 +18,8 @@
   },
   "home": {
     "meta": {
-      "title": "Winds of Viridia Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete Winds of Viridia guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Winds of Viridia Wiki — Demo Guides, Bosses, Totems & Movement Tips",
+      "description": "Explore Winds of Viridia with demo guides, boss strategies, movement and grappling tips, Totems, relics, the Mothbug companion, and release updates."
     },
     "hero": {
       "eyebrow": "Fantasy Action Adventure",
@@ -496,10 +496,7 @@
   },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
-    "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",

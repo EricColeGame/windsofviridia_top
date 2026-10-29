@@ -165,7 +165,7 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
 
                 {/* Module preview — styled per displayType */}
                 <div className="px-6 py-5">
-                  {/* code-cards: show active codes */}
+                  {/* code-cards: show platform and system detail cards */}
                   {mod.displayType === "code-cards" && mod.highlights && mod.highlights.length > 0 && (
                     <div className="space-y-3">
                       {mod.highlights.map((h, i) => (

@@ -1,1 +1,530 @@
-{}
+{
+  "site": {
+    "name": "Winds of Viridia Wiki",
+    "shortName": "Winds of Viridia",
+    "tagline": "Guides de démo, boss, reliques et conseils de déplacement",
+    "description": "Un wiki de fans de Winds of Viridia avec des guides sur la démo, les déplacements et le grappin, les boss, les totems, le compagnon Mothbug et les actualités de sortie.",
+    "legalNotice": "Wiki de fans non officiel. Créé par des joueurs, pour des joueurs."
+  },
+  "nav": {
+    "menu": "Menus",
+    "toggleTheme": "Changer de thème",
+    "guide": "Guides",
+    "combat": "Combat",
+    "mechanics": "Mécaniques",
+    "platforms": "Plateformes",
+    "updates": "Actualités",
+    "community": "Communauté"
+  },
+  "home": {
+    "meta": {
+      "title": "Winds of Viridia Wiki — Guides de la démo, boss, totems et déplacements",
+      "description": "Découvrez Winds of Viridia avec des guides de la démo, des stratégies de boss, des conseils de déplacement et de grappin, les totems, les reliques, le compagnon Mothbug et les actualités de sortie."
+    },
+    "hero": {
+      "eyebrow": "Action-aventure fantastique",
+      "title": "Winds of Viridia Wiki",
+      "description": "Explorez un monde fantastique façonné à la main, maîtrisez les déplacements fluides et le grappin, affrontez des bêtes frénétiques, collectez de puissantes reliques et découvrez les secrets de Viridia avec votre compagnon Mothbug.",
+      "stats": [
+        "Sortie début 2027",
+        "Démo disponible",
+        "PC & Nintendo Switch 2",
+        "Solo"
+      ],
+      "primaryCta": "Guide du débutant",
+      "secondaryCta": "Ajouter à la liste de souhaits Steam",
+      "tertiaryCta": "Site officiel",
+      "videoLabel": "Bande-annonce officielle"
+    },
+    "updates": {
+      "title": "Dernières actualités",
+      "browse": "Voir tous les guides",
+      "viewAll": "Tout voir"
+    },
+    "start": {
+      "eyebrow": "Commencez ici",
+      "title": "Votre voyage dans Winds of Viridia",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guide du débutant",
+          "description": "Apprenez la boucle d’ouverture, des premiers exercices de déplacement et routines au Sanctuaire jusqu’à la lecture des bêtes frénétiques avant de vous engager dans un combat."
+        },
+        {
+          "number": "2",
+          "title": "Déplacement et grappin",
+          "description": "Entraînez-vous à rouler, glisser, faire des figures et utiliser le grappin pour franchir les écarts, atteindre les hauteurs et conserver votre élan au combat."
+        },
+        {
+          "number": "3",
+          "title": "Totems et reliques",
+          "description": "Trouvez des reliques perdues, combinez les totems et composez un équipement axé sur la mobilité, l’endurance, le burst ou l’utilité."
+        },
+        {
+          "number": "4",
+          "title": "Préparation du premier boss",
+          "description": "Repérez l’arène, constituez une réserve de soins et testez le soutien du Mothbug avant d’affronter les gardiens gigantesques de la vallée."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Pages populaires",
+      "title": "Tendances du moment",
+      "quickLinks": [
+        "Guide de la démo",
+        "Guide du débutant",
+        "Déplacement et grappin",
+        "Tous les guides de boss"
+      ],
+      "cards": [
+        {
+          "badge": "Débutant",
+          "title": "Guide du débutant",
+          "description": "Créez une routine de première heure autour du déplacement, du sanctuaire, du combat et de la découverte du totem.",
+          "href": "/guide/winds-of-viridia-beginner-guide"
+        },
+        {
+          "badge": "Démo",
+          "title": "Guide de la démo",
+          "description": "Planifiez une séance ciblée à travers la zone d'ouverture, le sanctuaire et la vallée au-delà.",
+          "href": "/guide/winds-of-viridia-demo-guide"
+        },
+        {
+          "badge": "Déplacement",
+          "title": "Déplacement et exploration",
+          "description": "Enchaînez roulades, glissades, figures, grappin et lancements par les plantes à travers ce monde façonné à la main.",
+          "href": "/mechanics/winds-of-viridia-exploration"
+        },
+        {
+          "badge": "Build",
+          "title": "Totems et reliques",
+          "description": "Combinez des reliques perdues dans un équipement pour la mobilité, l’endurance, la rafale ou l'utilité.",
+          "href": "/guide/winds-of-viridia-demo-guide"
+        },
+        {
+          "badge": "Combat",
+          "title": "Combats de boss",
+          "description": "Lisez les signes d'attaque, explorez l'arène et préparez-vous à affronter les grands gardiens de la vallée.",
+          "href": "/combat/winds-of-viridia-boss-fights"
+        },
+        {
+          "badge": "Créatures",
+          "title": "Comportement des créatures",
+          "description": "Étudiez les bêtes frénétiques, les ennemis spéciaux et les signes qui révèlent leur prochain déplacement.",
+          "href": "/mechanics/winds-of-viridia-creature-behavior"
+        },
+        {
+          "badge": "Compagnon",
+          "title": "Assistance Mothbug",
+          "description": "Découvrez comment le compagnon Mothbug facilite l'exploration, le timing et la pression de combat.",
+          "href": "/mechanics/winds-of-viridia-creature-behavior"
+        },
+        {
+          "badge": "Sortie",
+          "title": "Date de sortie",
+          "description": "Suivez la fenêtre de lancement début 2027 et les plates-formes PC et Switch 2 annoncées.",
+          "href": "/platforms/winds-of-viridia-release-date"
+        },
+        {
+          "badge": "PC",
+          "title": "Configuration système requise",
+          "description": "Comparez les spécifications minimales et recommandées de PC avant d’ajouter le jeu à votre liste de souhaits.",
+          "href": "/platforms/winds-of-viridia-system-requirements"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Qu’est-ce que Winds of Viridia ?",
+      "paragraphs": [
+        "Winds of Viridia est une action-aventure solo de Shark Jump, située dans une vallée fantastique façonnée à la main et veillée par l’ancien Grantree. Vous explorez à pied et grâce à des déplacements fondés sur l’élan, combattez des bêtes frénétiques, collectez des reliques et combinez des totems pour façonner votre style de jeu.",
+        "Une démo gratuite est disponible sur PC et Nintendo Switch 2 avant la sortie début 2027. Le voyage mêle roulades, glissades, figures et grappin à des combats en temps réel, un compagnon Mothbug qui aide à l’exploration et au combat, et un hub Sanctuaire où les habitants et les repas partagés rythment l’aventure."
+      ],
+      "stats": [
+        {
+          "label": "Développeur",
+          "value": "Shark Jump"
+        },
+        {
+          "label": "Plateformes",
+          "value": "PC & Switch 2"
+        },
+        {
+          "label": "Sortie",
+          "value": "Début 2027"
+        },
+        {
+          "label": "Genre",
+          "value": "Action-aventure"
+        },
+        {
+          "label": "Mode de jeu",
+          "value": "Solo"
+        },
+        {
+          "label": "Démo",
+          "value": "Disponible"
+        },
+        {
+          "label": "Univers",
+          "value": "Grantree Valley"
+        }
+      ],
+      "cta": "Découvrir tous les guides"
+    },
+    "explore": {
+      "title": "Explorez le wiki de Winds of Viridia",
+      "description": "Planifiez votre première expédition et vos parties suivantes grâce aux guides sur la démo, les systèmes de débutant, les déplacements, les totems, les boss, les créatures, le soutien du Mothbug et les détails de sortie.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guide de la démo de Winds of Viridia",
+          "description": "Découvrez comment accéder à la démo jouable et profiter au mieux de son aventure d’ouverture. Cette section couvre les plateformes prises en charge, les objectifs de la première session, l’entraînement aux déplacements, les totems et ce que la démo révèle de la version complète.",
+          "href": "/guide/winds-of-viridia-demo-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Accès",
+              "detail": "Téléchargez la démo gratuite sur PC et Nintendo Switch 2"
+            },
+            {
+              "label": "Itinéraire",
+              "detail": "Commencez par la zone d’ouverture, visitez le Sanctuaire, puis dirigez-vous vers le Grantree"
+            },
+            {
+              "label": "Déplacement",
+              "detail": "Utilisez la démo pour travailler les roulades, glissades, figures et enchaînements au grappin"
+            },
+            {
+              "label": "Totems",
+              "detail": "Testez les combinaisons de reliques et notez le style de jeu qui convient à votre partie"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guide du débutant de Winds of Viridia",
+          "description": "Réussissez votre première heure grâce à des conseils pratiques sur la boucle de jeu, les priorités d’exploration, les bases du combat et les habitudes qui gardent les premières expéditions sur la bonne voie.",
+          "href": "/guide/winds-of-viridia-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Entraînez-vous à courir, sauter, rouler et changer de direction dans une clairière sûre"
+            },
+            {
+              "label": "2",
+              "detail": "Terminez une boucle d’exploration : quittez le Sanctuaire, récoltez, combattez et revenez"
+            },
+            {
+              "label": "3",
+              "detail": "Mémorisez l’emplacement du Sanctuaire et servez-vous-en comme repère"
+            },
+            {
+              "label": "4",
+              "detail": "Interagissez avec chaque totem trouvé pour comprendre le système de progression"
+            },
+            {
+              "label": "5",
+              "detail": "Testez le compagnon Mothbug lors d’une rencontre à faible risque"
+            },
+            {
+              "label": "6",
+              "detail": "Marquez les chemins inaccessibles et revenez après avoir débloqué plus de mobilité"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guide des déplacements de Winds of Viridia",
+          "description": "Découvrez comment la course, la roulade, la glissade, les figures et le grappin se combinent dans ce monde façonné à la main. Utilisez les lancements environnementaux, les itinéraires cachés et les raccourcis verticaux pour explorer la vallée plus efficacement.",
+          "href": "/mechanics/winds-of-viridia-exploration",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Grappin",
+              "detail": "Cherchez des points d’ancrage avant de juger un écart ou un rebord inaccessible"
+            },
+            {
+              "label": "Roulade",
+              "detail": "Évitez les attaques télégraphiées et traversez les terrains dangereux"
+            },
+            {
+              "label": "Glissade",
+              "detail": "Révélez les passages bas et les raccourcis invisibles en position debout"
+            },
+            {
+              "label": "Plantes",
+              "detail": "Utilisez les plantes de propulsion pour gagner de la hauteur et enchaîner les déplacements aériens"
+            },
+            {
+              "label": "Sanctuaire",
+              "detail": "Considérez le hub comme une base sûre et un repère de navigation"
+            },
+            {
+              "label": "Élan",
+              "detail": "Enchaînez les actions de déplacement au lieu de vous arrêter entre chaque geste"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guide des totems de Winds of Viridia",
+          "description": "Découvrez des reliques perdues et combinez les totems pour personnaliser votre style de jeu. Composez votre build autour des rôles adaptés à votre partie, puis ajustez votre équipement lorsqu’un nouvel itinéraire ou un boss exige une autre approche.",
+          "href": "/guide/winds-of-viridia-demo-guide",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Les totems de mobilité gardent des déplacements fluides et vous aident à échapper à la pression"
+            },
+            {
+              "label": "A",
+              "detail": "Les totems d’endurance prolongent votre survie pendant que vous apprenez les signes d’une créature"
+            },
+            {
+              "label": "B",
+              "detail": "Les totems de burst transforment les fenêtres de dégâts sûres en éliminations plus rapides"
+            },
+            {
+              "label": "C",
+              "detail": "Les totems d’utilité couvrent l’information, le contrôle et les réponses situationnelles"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guide des boss de Winds of Viridia",
+          "description": "Préparez-vous à affronter les bêtes gigantesques, les statues vivantes et les anciens gardiens qui ferment les routes de la vallée. Apprenez à lire les signes d’attaque, à utiliser l’arène et à choisir un équipement de totems adapté au combat.",
+          "href": "/combat/winds-of-viridia-boss-fights",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Repérage",
+              "detail": "Parcourez le périmètre de l’arène avant de vous engager pour repérer les dangers et le terrain sûr"
+            },
+            {
+              "label": "Signes",
+              "detail": "Observez la préparation de la créature au lieu de regarder sa barre de santé"
+            },
+            {
+              "label": "Totems",
+              "detail": "Apportez de la mobilité et de l’endurance pendant l’apprentissage, puis ajoutez du burst pour conclure"
+            },
+            {
+              "label": "Mothbug",
+              "detail": "Apprenez son soutien au combat avant d’affronter le boss"
+            },
+            {
+              "label": "Plantes",
+              "detail": "Utilisez les plantes de propulsion et l’espace vertical pour échapper à la pression au sol"
+            },
+            {
+              "label": "Soins",
+              "detail": "Gardez les consommables en réserve au lieu de les dépenser sur des ennemis ordinaires"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guide des créatures de Winds of Viridia",
+          "description": "Rencontrez les bêtes frénétiques, les ennemis spéciaux et les grands gardiens de la vallée du Grantree. Étudiez leurs signes, découvrez comment chaque menace met à l’épreuve la gestion des distances et le timing, et appliquez ces habitudes à chaque rencontre.",
+          "href": "/mechanics/winds-of-viridia-creature-behavior",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Bêtes",
+              "detail": "Les créatures frénétiques ordinaires mettent à l’épreuve la reconnaissance des formes et la gestion des distances"
+            },
+            {
+              "label": "Spécial",
+              "detail": "Les ennemis spéciaux combinent des télégraphes plus rapides et des fenêtres de récupération plus courtes"
+            },
+            {
+              "label": "Gardiens",
+              "detail": "Les grands gardiens exigent de la patience, une lecture des phases et une bonne connaissance de l’arène"
+            },
+            {
+              "label": "Signes",
+              "detail": "Associez une réponse à chaque préparation avant d’échanger des dégâts"
+            },
+            {
+              "label": "Récupération",
+              "detail": "Frappez après que la créature s’est engagée, pas pendant qu’elle attaque"
+            },
+            {
+              "label": "Rotation",
+              "detail": "Combattez chaque espèce deux fois, puis diversifiez vos lectures"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guide du compagnon Mothbug de Winds of Viridia",
+          "description": "Comprenez le compagnon Mothbug et la façon dont il soutient l’exploration et le combat. Découvrez où son aide est la plus utile, comment lire ses réactions et comment l’associer à votre équipement de totems.",
+          "href": "/mechanics/winds-of-viridia-creature-behavior",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Explorer",
+              "detail": "Gardez le Mothbug actif en terrain inconnu pour profiter de son aide à l’exploration"
+            },
+            {
+              "label": "Combat",
+              "detail": "Laissez-le vous aider sur le timing, les réactions défensives et la pression des combos"
+            },
+            {
+              "label": "Observer",
+              "detail": "Observez son comportement spontané lors d’une rencontre à faible risque"
+            },
+            {
+              "label": "Association",
+              "detail": "Coordonnez le soutien du compagnon avec les rôles de vos totems"
+            },
+            {
+              "label": "Sécurité",
+              "detail": "Utilisez sa protection lorsque vous vous engagez dans une animation de déplacement"
+            },
+            {
+              "label": "Sanctuaire",
+              "detail": "Retournez au sanctuaire pour réinitialiser et vous préparer avant des expéditions plus profondes"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Date de sortie et configuration système de Winds of Viridia",
+          "description": "Préparez la sortie début 2027 sur PC et Nintendo Switch 2. Consultez les configurations PC annoncées, les besoins de stockage et les détails des plateformes avant d’ajouter le jeu à votre liste de souhaits.",
+          "href": "/platforms",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Sortie",
+              "detail": "Début 2027 sur PC et Nintendo Switch 2"
+            },
+            {
+              "label": "Plateformes",
+              "detail": "PC via Steam et Nintendo Switch 2"
+            },
+            {
+              "label": "OS",
+              "detail": "Windows 10 version 21H1 (build 19043) ou version ultérieure"
+            },
+            {
+              "label": "CPU",
+              "detail": "Intel Core i5-3470 minimum ; Intel Core i5-6600K recommandé"
+            },
+            {
+              "label": "GPU",
+              "detail": "GeForce GTX 1050 Ti (3 Go) minimum ; GTX 1070 (5 Go) recommandé"
+            },
+            {
+              "label": "Mémoire",
+              "detail": "3 Go de RAM minimum ; 5 Go de RAM recommandés"
+            },
+            {
+              "label": "Stockage",
+              "detail": "5 Go d’espace disponible"
+            },
+            {
+              "label": "DirectX",
+              "detail": "Version 12"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Questions fréquentes",
+      "description": "Des réponses rapides sur Winds of Viridia, sa démo, ses plateformes, ses déplacements, ses totems et son compagnon.",
+      "items": [
+        {
+          "question": "Qu’est-ce que Winds of Viridia ?",
+          "answer": "Winds of Viridia est une action-aventure solo de Shark Jump située dans une vallée fantastique façonnée à la main. Les joueurs explorent vers le Grantree, combattent des bêtes frénétiques, collectent des reliques, combinent des totems et utilisent des déplacements fluides avec un compagnon Mothbug."
+        },
+        {
+          "question": "Existe-t-il une démo de Winds of Viridia ?",
+          "answer": "Oui. Une démo gratuite de Winds of Viridia est disponible sur PC et Nintendo Switch 2 avant la sortie début 2027. Elle comprend des exercices de déplacement, des combats, des totems et le compagnon Mothbug."
+        },
+        {
+          "question": "Sur quelles plateformes Winds of Viridia sortira-t-il ?",
+          "answer": "Winds of Viridia est annoncé sur PC via Steam et Nintendo Switch 2, avec une sortie prévue début 2027."
+        },
+        {
+          "question": "Comment fonctionnent les déplacements dans Winds of Viridia ?",
+          "answer": "Winds of Viridia construit ses déplacements autour de la course, de la roulade, de la glissade, des figures et du grappin. Enchaîner ces actions ouvre des raccourcis, aide à franchir les écarts et vous garde mobile au combat."
+        },
+        {
+          "question": "Que sont les totems dans Winds of Viridia ?",
+          "answer": "Les totems sont des reliques trouvées en explorant Winds of Viridia. Les combiner modifie votre style de jeu et vous permet de privilégier la mobilité, l’endurance, les dégâts burst ou l’utilité."
+        },
+        {
+          "question": "Qui est le compagnon Mothbug dans Winds of Viridia ?",
+          "answer": "Le Mothbug est un compagnon de Winds of Viridia qui aide à l’exploration et au combat. Gardez-le actif dans les zones inconnues et observez comment il vous soutient pendant les affrontements."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Commencez votre voyage à travers Viridia",
+      "description": "Maîtrisez le grappin, affrontez des bêtes frénétiques, découvrez d’anciennes reliques et suivez le Mothbug dans une aventure fantastique façonnée à la main.",
+      "primary": "Lire le guide du débutant",
+      "secondary": "Ajouter à la liste de souhaits Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guide de Winds of Viridia",
+    "overviewDescription": "Guides pas à pas pour débutants, conseils pour la démo, conseils de déplacement et aide pratique pour la première heure de chaque explorateur de Winds of Viridia."
+  },
+  "combat": {
+    "overviewTitle": "Guide de combat de Winds of Viridia",
+    "overviewDescription": "Stratégies de boss, comportement des ennemis, choix des armes et mécaniques de combat pour les rencontres les plus difficiles de Winds of Viridia."
+  },
+  "mechanics": {
+    "overviewTitle": "Mécaniques de Winds of Viridia",
+    "overviewDescription": "Découvrez l’exploration, l’étude des créatures, la progression, les totems et le compagnon Mothbug dans Winds of Viridia."
+  },
+  "platforms": {
+    "overviewTitle": "Plateformes de Winds of Viridia",
+    "overviewDescription": "Consultez les détails de sortie, la disponibilité de la démo, les informations Steam, la prise en charge de Switch 2 et les configurations PC requises."
+  },
+  "updates": {
+    "overviewTitle": "Mises à jour de Winds of Viridia",
+    "overviewDescription": "Suivez les annonces, bandes-annonces, actualités de la démo et les derniers développements de Shark Jump."
+  },
+  "community": {
+    "overviewTitle": "Communauté de Winds of Viridia",
+    "overviewDescription": "Retrouvez les discussions des joueurs de Winds of Viridia, les communautés Reddit, les groupes Discord et les découvertes partagées de la démo."
+  },
+  "shared": {
+    "wikiNavigation": "Navigation du wiki",
+    "updated": "Mis à jour",
+    "inThisSection": "Dans cette section",
+    "tableOfContents": "Table des matières",
+    "nextSteps": "Prochaines étapes",
+    "needHelp": "Besoin d’aide ?",
+    "relatedReading": "Lectures connexes",
+    "relatedGuides": "Guides connexes",
+    "readMore": "Lire la suite",
+    "officialMedia": "Médias officiels",
+    "home": "Accueil",
+    "noGuidesAvailable": "Aucun guide disponible pour le moment. Revenez bientôt !"
+  },
+  "footer": {
+    "aboutTitle": "Winds of Viridia Wiki",
+    "about": "Winds of Viridia Wiki est un guide indépendant créé par des fans, consacré à la démo, aux déplacements et au grappin, aux boss, aux reliques et totems, au compagnon Mothbug et aux informations de sortie.",
+    "quickLinks": "Liens rapides",
+    "guides": "Guides",
+    "legal": "Mentions légales",
+    "copyright": "2026 Winds of Viridia Wiki. Non affilié à Shark Jump ou Nintendo.",
+    "description": "Action-aventure fantastique solo de Shark Jump, attendue sur PC et Nintendo Switch 2 début 2027.",
+    "playGame": "Ajouter à la liste de souhaits Steam",
+    "officialDiscord": "Communauté Steam",
+    "officialYoutube": "Bande-annonce officielle",
+    "vvBuilder": "Site officiel",
+    "beginnerGuide": "Guide du débutant",
+    "raceGuides": "Guides de combat",
+    "bossGuides": "Mécaniques de jeu",
+    "buildGuide": "Plateformes et démo",
+    "privacyPolicy": "Politique de confidentialité",
+    "termsOfService": "Conditions d’utilisation"
+  }
+}

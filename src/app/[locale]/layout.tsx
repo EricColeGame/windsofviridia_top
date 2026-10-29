@@ -22,10 +22,12 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale } = await params;
   const image = `${siteUrl}/images/hero.webp`;
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
+  const messages = await getMessages({ locale });
+  const description = (messages as { site?: { description?: string } }).site?.description || siteConfig.description;
   return {
     metadataBase: new URL(siteUrl),
     title: { default: "Winds of Viridia Wiki", template: "%s" },
-    description: siteConfig.description,
+    description,
     manifest: "/manifest.json",
     icons: {
       icon: [
@@ -47,7 +49,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       siteName: siteConfig.name,
       images: [{ url: image, width: 1920, height: 1080, alt: "Winds of Viridia fantasy landscape" }],
     },
-    twitter: { card: "summary_large_image", images: [image], title: siteConfig.name, description: siteConfig.description },
+    twitter: { card: "summary_large_image", images: [image], title: siteConfig.name, description },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }

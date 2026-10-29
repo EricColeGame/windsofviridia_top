@@ -1,1 +1,530 @@
-{}
+{
+  "site": {
+    "name": "Winds of Viridia Wiki",
+    "shortName": "Winds of Viridia",
+    "tagline": "デモガイド、ボス、レリック、移動のヒント",
+    "description": "ゲームプレイガイド、ボス戦略、移動のヒント、レリックとトーテムの詳細、Mothbug コンパニオン、デモのポイント、リリース情報をまとめた Winds of Viridia 攻略サイトです。",
+    "legalNotice": "非公式のファン Wiki です。プレイヤーがプレイヤーのために制作しています。"
+  },
+  "nav": {
+    "menu": "メニュー",
+    "toggleTheme": "テーマの切り替え",
+    "guide": "ガイド",
+    "combat": "戦闘",
+    "mechanics": "ゲームシステム",
+    "platforms": "対応機種",
+    "updates": "最新情報",
+    "community": "コミュニティ"
+  },
+  "home": {
+    "meta": {
+      "title": "Winds of Viridia Wiki — デモ攻略、ボス、トーテム、移動のヒント",
+      "description": "Winds of Viridia のデモ攻略、ボス戦略、移動とグラップリングのコツ、トーテムとレリック、Mothbug コンパニオン、リリース情報を解説します。"
+    },
+    "hero": {
+      "eyebrow": "ファンタジー・アクションアドベンチャー",
+      "title": "Winds of Viridia Wiki",
+      "description": "手作りされたファンタジー世界を探索し、流れるような移動とグラップリングを極め、狂乱した獣と戦い、強力なレリックを集め、Mothbug コンパニオンとともに Viridia の秘密を解き明かしましょう。",
+      "stats": [
+        "2027年初頭リリース",
+        "デモ配信中",
+        "PC & Nintendo Switch 2",
+        "シングルプレイ"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "Steam でウィッシュリストに追加",
+      "tertiaryCta": "公式サイト",
+      "videoLabel": "公式発表トレーラー"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "はじめに",
+      "title": "Winds of Viridia の旅を始めよう",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "最初の移動練習や Sanctuary での過ごし方から、狂乱した獣の予兆を読む方法まで、序盤の流れを学びましょう。"
+        },
+        {
+          "number": "2",
+          "title": "移動とグラップリング",
+          "description": "ローリング、スライディング、フリップ、グラップリングを練習し、隙間を越え、高い足場に到達し、戦闘中も勢いを保ちましょう。"
+        },
+        {
+          "number": "3",
+          "title": "トーテムとレリック",
+          "description": "失われたレリックを見つけ、トーテムを組み合わせ、機動性・継戦能力・瞬間火力・ユーティリティに合わせた装備を整えましょう。"
+        },
+        {
+          "number": "4",
+          "title": "最初のボスの準備",
+          "description": "谷の巨大な守護者に挑む前に、アリーナを偵察し、回復アイテムを蓄え、Mothbug の支援を試しましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "いま注目の記事",
+      "quickLinks": [
+        "デモガイド",
+        "初心者ガイド",
+        "移動とグラップリング",
+        "全ボスガイド"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "移動、Sanctuary、戦闘、トーテム探しを軸に、最初の1時間で取り組むことをまとめます。",
+          "href": "/guide/winds-of-viridia-beginner-guide"
+        },
+        {
+          "badge": "デモ",
+          "title": "デモガイド",
+          "description": "序盤エリア、Sanctuary、その先の谷を効率よく巡るデモ攻略を紹介します。",
+          "href": "/guide/winds-of-viridia-demo-guide"
+        },
+        {
+          "badge": "移動",
+          "title": "移動と探索",
+          "description": "ローリング、スライディング、フリップ、グラップリング、植物の打ち上げをつなげて世界を探索します。",
+          "href": "/mechanics/winds-of-viridia-exploration"
+        },
+        {
+          "badge": "ビルド",
+          "title": "トーテムとレリック",
+          "description": "失われたレリックを組み合わせ、機動性・継戦能力・瞬間火力・ユーティリティに特化した装備を作りましょう。",
+          "href": "/guide/winds-of-viridia-demo-guide"
+        },
+        {
+          "badge": "戦闘",
+          "title": "ボス戦",
+          "description": "攻撃の予兆を読み、アリーナを把握し、谷の大守護者に備えましょう。",
+          "href": "/combat/winds-of-viridia-boss-fights"
+        },
+        {
+          "badge": "クリーチャー",
+          "title": "クリーチャーの行動",
+          "description": "狂乱した獣、特殊な敵、次の行動を示す予兆を研究しましょう。",
+          "href": "/mechanics/winds-of-viridia-creature-behavior"
+        },
+        {
+          "badge": "コンパニオン",
+          "title": "Mothbug サポート",
+          "description": "Mothbug コンパニオンが探索、タイミング、戦闘の支援をどう行うかを学びましょう。",
+          "href": "/mechanics/winds-of-viridia-creature-behavior"
+        },
+        {
+          "badge": "リリース",
+          "title": "発売日",
+          "description": "2027年初頭のリリース時期と、発表済みの PC・Switch 2 対応を追いましょう。",
+          "href": "/platforms/winds-of-viridia-release-date"
+        },
+        {
+          "badge": "PC",
+          "title": "システム要件",
+          "description": "ウィッシュリスト登録前に、PC の最小・推奨スペックを確認しましょう。",
+          "href": "/platforms/winds-of-viridia-system-requirements"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Winds of Viridia とは？",
+      "paragraphs": [
+        "Winds of Viridia は、Shark Jump が手がけるシングルプレイのアクションアドベンチャーです。古代の Grantree が見守る手作りのファンタジー谷を舞台に、徒歩や勢いを活かした移動で探索し、狂乱した獣と戦い、レリックを集め、トーテムを組み合わせて主人公の戦い方を形作ります。",
+        "2027年初頭の発売に先立ち、PC と Nintendo Switch 2 では無料デモが配信中です。ローリング、スライディング、フリップ、グラップリングの移動とリアルタイム戦闘、探索と戦闘を支える Mothbug コンパニオン、住民や共同の食事が拠点となる Sanctuary が融合した冒険です。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "Shark Jump"
+        },
+        {
+          "label": "対応機種",
+          "value": "PC & Switch 2"
+        },
+        {
+          "label": "リリース",
+          "value": "2027年初頭"
+        },
+        {
+          "label": "ジャンル",
+          "value": "アクションアドベンチャー"
+        },
+        {
+          "label": "ゲームモード",
+          "value": "シングルプレイ"
+        },
+        {
+          "label": "デモ",
+          "value": "配信中"
+        },
+        {
+          "label": "舞台",
+          "value": "Grantree Valley"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Winds of Viridia Wiki を探索",
+      "description": "デモ、初心者向けシステム、移動、トーテム、ボス、クリーチャー、Mothbug の支援、リリース情報まで、最初の遠征から繰り返しのプレイまで役立つガイドを揃えています。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Winds of Viridia デモガイド",
+          "description": "プレイ可能なデモの入手方法と、序盤の冒険を最大限に楽しむコツを解説します。対応機種、最初のセッションの目標、移動練習、トーテム、デモから分かる正式版の内容を紹介します。",
+          "href": "/guide/winds-of-viridia-demo-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "アクセス",
+              "detail": "PC と Nintendo Switch 2 の無料デモをダウンロードしましょう"
+            },
+            {
+              "label": "ルート",
+              "detail": "オープニングエリアから始め、Sanctuary を訪れてから Grantree へ向かいましょう"
+            },
+            {
+              "label": "移動",
+              "detail": "デモでローリング、スライディング、フリップ、グラップリングの連携を練習しましょう"
+            },
+            {
+              "label": "トーテム",
+              "detail": "レリックの組み合わせを試し、自分のプレイスタイルに合う構成を確認しましょう"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Winds of Viridia 初心者ガイド",
+          "description": "ゲームループ、探索の優先順位、戦闘の基礎、序盤の遠征を軌道に乗せる習慣を実践的に解説し、最初の1時間をスムーズに進めます。",
+          "href": "/guide/winds-of-viridia-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "安全な場所で走る、跳ぶ、転がる、方向転換する練習をしましょう"
+            },
+            {
+              "label": "2",
+              "detail": "探索ループを1周しましょう。Sanctuary を出て、素材を集め、戦い、戻ってきます"
+            },
+            {
+              "label": "3",
+              "detail": "Sanctuary の場所を覚え、移動の目印にしましょう"
+            },
+            {
+              "label": "4",
+              "detail": "見つけたトーテムにはすべて触れ、進行システムを学びましょう"
+            },
+            {
+              "label": "5",
+              "detail": "危険の少ない戦闘で Mothbug コンパニオンを試しましょう"
+            },
+            {
+              "label": "6",
+              "detail": "届かないルートは印を付け、移動能力を増やしてから戻りましょう"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Winds of Viridia 移動ガイド",
+          "description": "走る、転がる、滑る、フリップ、グラップリングを組み合わせ、環境の打ち上げや隠しルート、縦方向の近道を使って谷を効率よく探索する方法を学びます。",
+          "href": "/mechanics/winds-of-viridia-exploration",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "グラップリング",
+              "detail": "隙間や足場を届かないと決める前に、アンカーポイントを探しましょう"
+            },
+            {
+              "label": "ローリング",
+              "detail": "予兆のある攻撃を避け、危険な地面を横断しましょう"
+            },
+            {
+              "label": "スライディング",
+              "detail": "立ったままでは見えない低いルートや近道を見つけましょう"
+            },
+            {
+              "label": "植物",
+              "detail": "打ち上げ植物で高さを稼ぎ、空中移動につなげましょう"
+            },
+            {
+              "label": "Sanctuary",
+              "detail": "拠点を安全地帯かつ移動の目印として使いましょう"
+            },
+            {
+              "label": "勢い",
+              "detail": "移動アクションを途切れなくつなげ、動作の合間に止まらないようにしましょう"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Winds of Viridia トーテムガイド",
+          "description": "失われたレリックを見つけ、トーテムを組み合わせてプレイスタイルをカスタマイズ。ルートやボスに合わせて装備を調整しましょう。",
+          "href": "/guide/winds-of-viridia-demo-guide",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "機動性トーテムは移動を滑らかに保ち、敵の圧力から逃れるのに役立ちます"
+            },
+            {
+              "label": "A",
+              "detail": "継戦トーテムは敵の予兆を学びながら生存時間を延ばします"
+            },
+            {
+              "label": "B",
+              "detail": "瞬間火力トーテムは安全な攻撃チャンスを素早い撃破につなげます"
+            },
+            {
+              "label": "C",
+              "detail": "ユーティリティトーテムは情報、制御、状況対応を補います"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Winds of Viridia ボスガイド",
+          "description": "谷のルートを塞ぐ巨大な獣、生きた石像、古代の守護者に備え、攻撃の予兆の読み方、アリーナの使い方、戦闘に合うトーテム構成を学びます。",
+          "href": "/combat/winds-of-viridia-boss-fights",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "偵察",
+              "detail": "戦う前にアリーナを一周し、危険地帯と安全地帯を確認しましょう"
+            },
+            {
+              "label": "予兆",
+              "detail": "体力バーではなく、クリーチャーの予備動作を観察しましょう"
+            },
+            {
+              "label": "トーテム",
+              "detail": "習熟中は機動性と継戦能力を優先し、撃破を狙う段階で瞬間火力を追加しましょう"
+            },
+            {
+              "label": "Mothbug",
+              "detail": "ボス戦の前に戦闘支援を確認しましょう"
+            },
+            {
+              "label": "植物",
+              "detail": "打ち上げ植物と高所を使って地上からの圧力をかわしましょう"
+            },
+            {
+              "label": "回復",
+              "detail": "通常の敵には消費アイテムを使わず、回復用に蓄えておきましょう"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Winds of Viridia クリーチャーガイド",
+          "description": "Grantree の谷に潜む狂乱した獣、特殊な敵、大守護者を紹介。予兆を見極め、距離とタイミングの取り方を身につけましょう。",
+          "href": "/mechanics/winds-of-viridia-creature-behavior",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "獣",
+              "detail": "通常の狂乱したクリーチャーはパターン認識と距離感を試します"
+            },
+            {
+              "label": "特殊敵",
+              "detail": "特殊な敵は予兆が速く、立て直しの隙も短くなります"
+            },
+            {
+              "label": "守護者",
+              "detail": "大守護者には忍耐、フェーズの読み取り、アリーナの把握が求められます"
+            },
+            {
+              "label": "予兆",
+              "detail": "ダメージを狙う前に、すべての予備動作への対処を決めておきましょう"
+            },
+            {
+              "label": "立て直し",
+              "detail": "攻撃中ではなく、クリーチャーが攻撃を終えた後に反撃しましょう"
+            },
+            {
+              "label": "ローテーション",
+              "detail": "各敵と2回戦ってから次の敵へ進み、読みの幅を広げましょう"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Winds of Viridia Mothbug コンパニオンガイド",
+          "description": "Mothbug コンパニオンの探索・戦闘支援を理解し、助けが最も活きる場面、反応の読み方、トーテム構成との組み合わせ方を学びます。",
+          "href": "/mechanics/winds-of-viridia-creature-behavior",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "探索",
+              "detail": "未知の地形では Mothbug を常に連れ歩き、探索を支援してもらいましょう"
+            },
+            {
+              "label": "戦闘",
+              "detail": "タイミング、防御反応、コンボの圧力を支援してもらいましょう"
+            },
+            {
+              "label": "観察",
+              "detail": "危険の少ない戦闘で、指示していない時の行動を観察しましょう"
+            },
+            {
+              "label": "組み合わせ",
+              "detail": "トーテムの役割に合わせてコンパニオンの支援を調整しましょう"
+            },
+            {
+              "label": "安全",
+              "detail": "移動アニメーション中は、その保護効果を活用しましょう"
+            },
+            {
+              "label": "Sanctuary",
+              "detail": "ハブに戻って態勢を整え、より深い探索に備えましょう"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Winds of Viridia 発売日とシステム要件",
+          "description": "PC と Nintendo Switch 2 で2027年初頭に予定される発売に備え、発表済みの PC 必要スペック、ストレージ、対応機種の詳細を確認しましょう。",
+          "href": "/platforms",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "リリース",
+              "detail": "PC と Nintendo Switch 2 では2027年初頭に発売予定です"
+            },
+            {
+              "label": "対応機種",
+              "detail": "PC は Steam 経由、ほかに Nintendo Switch 2 に対応します"
+            },
+            {
+              "label": "OS",
+              "detail": "Windows 10 バージョン 21H1（ビルド 19043）以降"
+            },
+            {
+              "label": "CPU",
+              "detail": "最低 Intel Core i5-3470、推奨 Intel Core i5-6600K"
+            },
+            {
+              "label": "GPU",
+              "detail": "最低 GeForce GTX 1050 Ti（3 GB）、推奨 GTX 1070（5 GB）"
+            },
+            {
+              "label": "メモリ",
+              "detail": "最低 3 GB RAM、推奨 5 GB RAM"
+            },
+            {
+              "label": "ストレージ",
+              "detail": "5 GB の空き容量"
+            },
+            {
+              "label": "DirectX",
+              "detail": "バージョン 12"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "Winds of Viridia のデモ、対応機種、移動、トーテム、コンパニオンについて簡潔に回答します。",
+      "items": [
+        {
+          "question": "Winds of Viridia とは何ですか？",
+          "answer": "Winds of Viridia は、Shark Jump によるシングルプレイのアクションアドベンチャーで、手作りのファンタジー谷を舞台にしています。プレイヤーは Grantree を目指して探索し、狂乱した獣と戦い、レリックを集め、トーテムを組み合わせ、Mothbug コンパニオンとともに流れるような移動を駆使します。"
+        },
+        {
+          "question": "Winds of Viridia のデモはありますか？",
+          "answer": "はい。2027年初頭の発売に先立ち、PC と Nintendo Switch 2 で無料デモが配信中です。移動練習、戦闘、トーテム、Mothbug コンパニオンを体験できます。"
+        },
+        {
+          "question": "Winds of Viridia はどの機種で発売されますか？",
+          "answer": "Winds of Viridia は Steam 経由の PC と Nintendo Switch 2 向けに発表されており、2027年初頭の発売が予定されています。"
+        },
+        {
+          "question": "Winds of Viridia の移動システムはどうなっていますか？",
+          "answer": "Winds of Viridia の移動は、走る、転がる、滑る、フリップ、グラップリングを軸にしています。これらをつなげることで近道を開き、隙間を越え、戦闘中も動き続けられます。"
+        },
+        {
+          "question": "Winds of Viridia のトーテムとは何ですか？",
+          "answer": "トーテムは Winds of Viridia の探索中に見つかるレリックです。組み合わせることでプレイスタイルが変わり、機動性、継戦能力、瞬間火力、ユーティリティのいずれかに寄せられます。"
+        },
+        {
+          "question": "Winds of Viridia の Mothbug コンパニオンとは？",
+          "answer": "Mothbug は探索と戦闘を支援するコンパニオンです。未知のエリアでは常に連れ歩き、戦闘中にどのように支えてくれるかを観察しましょう。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Viridia の旅を始めよう",
+      "description": "グラップリングを極め、狂乱した獣と戦い、古代のレリックを見つけ、手作りのファンタジー冒険で Mothbug とともに進みましょう。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Steam でウィッシュリストに追加"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Winds of Viridia ガイド",
+    "overviewDescription": "初心者向けウォークスルー、デモのヒント、移動のアドバイス、最初の1時間に役立つ実践ガイドをまとめています。"
+  },
+  "combat": {
+    "overviewTitle": "Winds of Viridia 戦闘ガイド",
+    "overviewDescription": "ボス戦略、敵の行動、武器選び、戦闘システムまで、Winds of Viridia の難所を攻略します。"
+  },
+  "mechanics": {
+    "overviewTitle": "Winds of Viridia ゲームシステム",
+    "overviewDescription": "探索、クリーチャー調査、進行、トーテム、Mothbug コンパニオンの仕組みを解説します。"
+  },
+  "platforms": {
+    "overviewTitle": "Winds of Viridia 対応機種",
+    "overviewDescription": "発売情報、デモの配信状況、Steam 情報、Switch 2 対応、PC システム要件を確認できます。"
+  },
+  "updates": {
+    "overviewTitle": "Winds of Viridia アップデート",
+    "overviewDescription": "Winds of Viridia の発表、トレーラー、デモ情報、Shark Jump の最新動向を追います。"
+  },
+  "community": {
+    "overviewTitle": "Winds of Viridia コミュニティ",
+    "overviewDescription": "Winds of Viridia のプレイヤー議論、Reddit コミュニティ、Discord グループ、デモで共有された発見を紹介します。"
+  },
+  "shared": {
+    "wikiNavigation": "Wiki ナビゲーション",
+    "updated": "更新",
+    "inThisSection": "このセクション",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "サポートが必要ですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "ガイドはまだありません。近日公開予定です。"
+  },
+  "footer": {
+    "aboutTitle": "Winds of Viridia Wiki",
+    "about": "Winds of Viridia Wiki は、デモ、移動とグラップリング、ボス、レリックとトーテム、Mothbug コンパニオン、リリース情報を扱う独立系ファンガイドです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的事項",
+    "copyright": "2026 Winds of Viridia Wiki。Shark Jump および Nintendo とは提携していません。",
+    "description": "Shark Jump によるシングルプレイのファンタジー・アクションアドベンチャー。2027年初頭に PC と Nintendo Switch 2 で登場予定です。",
+    "playGame": "Steam でウィッシュリストに追加",
+    "officialDiscord": "Steam コミュニティ",
+    "officialYoutube": "公式発表トレーラー",
+    "vvBuilder": "公式サイト",
+    "beginnerGuide": "初心者ガイド",
+    "raceGuides": "戦闘ガイド",
+    "bossGuides": "ゲームシステム",
+    "buildGuide": "対応機種とデモ",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}
