@@ -42,22 +42,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the opening loop, from first movement drills and Sanctuary routines to reading frenzied beasts before you commit to a fight."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Movement & Grappling",
+          "description": "Practice rolling, sliding, flipping, and grappling so you can cross gaps, reach high ledges, and keep momentum through combat."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Totems & Relics",
+          "description": "Find lost relics, combine Totems, and shape a loadout for mobility, sustain, burst, or utility as you explore deeper."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Winds of Viridia."
+          "title": "First Boss Prep",
+          "description": "Scout the arena, bank healing items, and test Mothbug support before challenging the valley's gigantic guardians."
         }
       ]
     },
@@ -65,237 +65,363 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
+        "Demo Guide",
+        "Beginner Guide",
+        "Movement & Grappling",
         "All Boss Guides"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Build a first-hour routine around movement, Sanctuary, combat, and Totem discovery.",
+          "href": "/guide/winds-of-viridia-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Demo",
+          "title": "Demo Guide",
+          "description": "Plan a focused session through the opening area, Sanctuary, and the valley beyond.",
+          "href": "/guide/winds-of-viridia-demo-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Movement",
+          "title": "Movement & Exploration",
+          "description": "Chain rolls, slides, flips, grapples, and plant launches across the handcrafted world.",
+          "href": "/mechanics/winds-of-viridia-exploration"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Build",
+          "title": "Totems & Relics",
+          "description": "Combine lost relics into a loadout for mobility, sustain, burst, or utility.",
+          "href": "/guide/winds-of-viridia-demo-guide"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Combat",
+          "title": "Boss Fights",
+          "description": "Read attack tells, scout the arena, and prepare for the valley's grand guardians.",
+          "href": "/combat/winds-of-viridia-boss-fights"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "badge": "Creatures",
+          "title": "Creature Behavior",
+          "description": "Study frenzied beasts, special enemies, and the tells that reveal their next move.",
+          "href": "/mechanics/winds-of-viridia-creature-behavior"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Companion",
+          "title": "Mothbug Support",
+          "description": "Learn how the Mothbug companion assists exploration, timing, and combat pressure.",
+          "href": "/mechanics/winds-of-viridia-creature-behavior"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "badge": "Release",
+          "title": "Release Date",
+          "description": "Track the early 2027 launch window and the announced PC and Switch 2 platforms.",
+          "href": "/platforms/winds-of-viridia-release-date"
         },
         {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "PC",
+          "title": "System Requirements",
+          "description": "Compare the minimum and recommended PC specs before you wishlist the game.",
+          "href": "/platforms/winds-of-viridia-system-requirements"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Winds of Viridia?",
       "paragraphs": [
-        "Winds of Viridia is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Winds of Viridia is a single-player action adventure from Shark Jump, set in a handcrafted fantasy valley watched over by the ancient Grantree. You explore on foot and through momentum-driven traversal, fight frenzied beasts, collect relics, and combine Totems to shape how your hero plays.",
+        "A free demo is available on PC and Nintendo Switch 2 ahead of the early 2027 launch. The journey blends roll, slide, flip, and grapple movement with real-time combat, a Mothbug companion that assists in exploration and battle, and a Sanctuary hub where residents and shared meals anchor the adventure."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Shark Jump"
         },
         {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Platforms",
+          "value": "PC & Switch 2"
+        },
+        {
+          "label": "Release",
+          "value": "Early 2027"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Action Adventure"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Game Mode",
+          "value": "Singleplayer"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Demo",
+          "value": "Available Now"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Setting",
+          "value": "Grantree Valley"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Winds of Viridia Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Plan your first expedition and every later run with guides to the demo, beginner systems, movement, Totems, bosses, creatures, Mothbug support, and release details.",
       "modules": [
         {
           "order": 1,
-          "name": "Winds of Viridia Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/winds-of-viridia-codes",
-          "displayType": "code-box",
+          "name": "Winds of Viridia Demo Guide",
+          "description": "Learn how to access the playable demo and make the most of its opening adventure. This section covers supported platforms, first-session objectives, traversal practice, Totems, and what the demo reveals about the full release.",
+          "href": "/guide/winds-of-viridia-demo-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Access",
+              "detail": "Download the free demo on PC and Nintendo Switch 2"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Route",
+              "detail": "Start at the opening area, visit Sanctuary, then head toward the Grantree"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Movement",
+              "detail": "Use the demo to drill rolls, slides, flips, and grapple chains"
+            },
+            {
+              "label": "Totems",
+              "detail": "Test relic combinations and note which playstyle fits your run"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
+          "name": "Winds of Viridia Beginner Guide",
+          "description": "Build a smooth first hour with practical guidance on the gameplay loop, exploration priorities, combat fundamentals, and the habits that keep early expeditions on track.",
           "href": "/guide/winds-of-viridia-beginner-guide",
-          "displayType": "feature-cards",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Practice running, jumping, rolling, and changing direction in a safe clearing"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Complete one exploration loop: leave Sanctuary, gather, fight, and return"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Memorize the Sanctuary location and use it as your navigation anchor"
+            },
+            {
+              "label": "4",
+              "detail": "Interact with every Totem you find to learn the progression system"
+            },
+            {
+              "label": "5",
+              "detail": "Test the Mothbug companion during a low-risk encounter"
+            },
+            {
+              "label": "6",
+              "detail": "Mark unreachable paths and return after unlocking more mobility"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/winds-of-viridia-tier-list",
-          "displayType": "tier-grid",
+          "name": "Winds of Viridia Movement Guide",
+          "description": "Learn how running, rolling, sliding, flipping, and grappling combine across the handcrafted world. Use environmental launches, hidden routes, and vertical shortcuts to explore the valley more efficiently.",
+          "href": "/mechanics/winds-of-viridia-exploration",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Grapple",
+              "detail": "Scan for anchor points before calling a gap or ledge unreachable"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Roll",
+              "detail": "Evade telegraphed attacks and cross hazardous ground"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Slide",
+              "detail": "Reveal low routes and shortcuts hidden from a standing position"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Plants",
+              "detail": "Use launch plants to gain height and chain into aerial movement"
+            },
+            {
+              "label": "Sanctuary",
+              "detail": "Treat the hub as a safe base and a navigation anchor"
+            },
+            {
+              "label": "Momentum",
+              "detail": "Layer traversal actions instead of stopping between moves"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/winds-of-viridia-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Winds of Viridia Totems Guide",
+          "description": "Discover lost relics and combine Totems to customize your playstyle. Build around the roles that fit your run, then adjust the loadout when a new route or boss demands a different approach.",
+          "href": "/guide/winds-of-viridia-demo-guide",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Mobility Totems keep traversal fluid and help you escape pressure"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "Sustain Totems extend survival while you learn a creature's tells"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Burst Totems convert safe damage windows into faster clears"
+            },
+            {
+              "label": "C",
+              "detail": "Utility Totems cover information, control, and situational answers"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/winds-of-viridia-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Winds of Viridia Boss Guide",
+          "description": "Prepare for the gigantic beasts, living statues, and ancient guardians that close out the valley's routes. Learn how to read attack tells, use the arena, and bring a Totem loadout that matches the fight.",
+          "href": "/combat/winds-of-viridia-boss-fights",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Scout",
+              "detail": "Walk the arena perimeter before engaging to find hazards and safe ground"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Tells",
+              "detail": "Watch the creature's wind-up instead of staring at its health bar"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Totems",
+              "detail": "Bring mobility and sustain while learning, then add burst for clears"
+            },
+            {
+              "label": "Mothbug",
+              "detail": "Learn its combat support before the boss gate"
+            },
+            {
+              "label": "Plants",
+              "detail": "Use launch plants and vertical space to escape ground pressure"
+            },
+            {
+              "label": "Healing",
+              "detail": "Bank consumables instead of spending them on ordinary enemies"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/winds-of-viridia-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Winds of Viridia Creatures Guide",
+          "description": "Meet the frenzied beasts, special enemies, and grand guardians of the Grantree valley. Study their tells, learn how each threat tests spacing and timing, and carry those habits into every encounter.",
+          "href": "/mechanics/winds-of-viridia-creature-behavior",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Beasts",
+              "detail": "Ordinary frenzied creatures test pattern recognition and spacing"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Special",
+              "detail": "Special enemies mix faster tells with tighter recovery windows"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Guardians",
+              "detail": "Grand guardians demand patience, phase reading, and arena awareness"
+            },
+            {
+              "label": "Tells",
+              "detail": "Attach a response to every wind-up before you trade damage"
+            },
+            {
+              "label": "Recovery",
+              "detail": "Strike after a creature commits, not while it is mid-attack"
+            },
+            {
+              "label": "Rotate",
+              "detail": "Fight each species twice, then move on to broaden your reads"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Winds of Viridia Mothbug Companion Guide",
+          "description": "Understand the Mothbug companion and how it supports exploration and combat. Learn where its assistance helps most, how to read its reactions, and how to pair it with your Totem loadout.",
+          "href": "/mechanics/winds-of-viridia-creature-behavior",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Explore",
+              "detail": "Keep the Mothbug active in unfamiliar terrain for exploration support"
+            },
+            {
+              "label": "Combat",
+              "detail": "Let it assist with timing, defensive reactions, and combo pressure"
+            },
+            {
+              "label": "Observe",
+              "detail": "Watch its unprompted behavior during a low-risk encounter"
+            },
+            {
+              "label": "Pairing",
+              "detail": "Coordinate companion support with your Totem roles"
+            },
+            {
+              "label": "Safety",
+              "detail": "Use its coverage when committed to a traversal animation"
+            },
+            {
+              "label": "Sanctuary",
+              "detail": "Return to the hub to reset and prepare before deeper runs"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Winds of Viridia Release Date and System Requirements",
+          "description": "Plan around the early 2027 launch on PC and Nintendo Switch 2. Review the announced PC hardware tiers, storage needs, and platform details before wishlisting the game.",
+          "href": "/platforms",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Release",
+              "detail": "Early 2027 on PC and Nintendo Switch 2"
+            },
+            {
+              "label": "Platforms",
+              "detail": "PC via Steam and Nintendo Switch 2"
+            },
+            {
+              "label": "OS",
+              "detail": "Windows 10 version 21H1 (build 19043) or newer"
+            },
+            {
+              "label": "CPU",
+              "detail": "Intel Core i5-3470 minimum; Intel Core i5-6600K recommended"
+            },
+            {
+              "label": "GPU",
+              "detail": "GeForce GTX 1050 Ti (3 GB) minimum; GTX 1070 (5 GB) recommended"
+            },
+            {
+              "label": "Memory",
+              "detail": "3 GB RAM minimum; 5 GB RAM recommended"
+            },
+            {
+              "label": "Storage",
+              "detail": "5 GB available space"
+            },
+            {
+              "label": "DirectX",
+              "detail": "Version 12"
             }
           ]
         }
@@ -303,27 +429,31 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Winds of Viridia.",
+      "description": "Quick answers about Winds of Viridia, its demo, platforms, movement, Totems, and companion.",
       "items": [
         {
           "question": "What is Winds of Viridia?",
-          "answer": "Winds of Viridia is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Winds of Viridia is a single-player action adventure from Shark Jump set in a handcrafted fantasy valley. Players explore toward the Grantree, fight frenzied beasts, collect relics, combine Totems, and use fluid movement with a Mothbug companion."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Is there a Winds of Viridia demo?",
+          "answer": "Yes. A free Winds of Viridia demo is available on PC and Nintendo Switch 2 before the early 2027 launch. It includes movement practice, combat encounters, Totems, and the Mothbug companion."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Which platforms will Winds of Viridia release on?",
+          "answer": "Winds of Viridia is announced for PC via Steam and Nintendo Switch 2, with an early 2027 release window."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How does movement work in Winds of Viridia?",
+          "answer": "Winds of Viridia builds traversal around running, rolling, sliding, flipping, and grappling. Chaining those actions opens shortcuts, helps you cross gaps, and keeps you mobile during combat."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "What are Totems in Winds of Viridia?",
+          "answer": "Totems are relics found while exploring Winds of Viridia. Combining them changes your playstyle, letting you lean toward mobility, sustain, burst damage, or utility."
+        },
+        {
+          "question": "Who is the Mothbug companion in Winds of Viridia?",
+          "answer": "The Mothbug is a companion in Winds of Viridia that assists with exploration and combat. Keep it active in unfamiliar areas and watch how it supports you during fights."
         }
       ]
     },
