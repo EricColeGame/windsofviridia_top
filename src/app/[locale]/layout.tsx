@@ -12,7 +12,7 @@ import { routing } from "@/i18n/routing";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://windsofviridia.top";
+const siteUrl = (process.env.NEXT_PUBLIC_SITE_URL || "https://windsofviridia.top").replace(/\/$/, "");
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -25,7 +25,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   return {
     metadataBase: new URL(siteUrl),
     title: { default: "Winds of Viridia Wiki", template: "%s" },
-    description: "Winds of Viridia wiki with demo guides, movement and grappling tips, boss strategies, Totems, Mothbug companion details, and release updates.",
+    description: siteConfig.description,
     manifest: "/manifest.json",
     icons: {
       icon: [
@@ -36,8 +36,18 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       apple: [{ url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
     },
     appleWebApp: { capable: true, statusBarStyle: "black-translucent", title: siteConfig.shortName },
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    alternates: {
+      canonical: `/${locale}`,
+      languages: Object.fromEntries(routing.locales.map((loc) => [loc, `/${loc}`])),
+    },
+    openGraph: {
+      type: "website",
+      locale,
+      url: `${siteUrl}/${locale}`,
+      siteName: siteConfig.name,
+      images: [{ url: image, width: 1920, height: 1080, alt: "Winds of Viridia fantasy landscape" }],
+    },
+    twitter: { card: "summary_large_image", images: [image], title: siteConfig.name, description: siteConfig.description },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }
@@ -52,8 +62,9 @@ export default async function LocaleLayout({ children, params }: { children: Rea
     "@type": "Organization",
     name: siteConfig.name,
     url: siteUrl,
-    logo: `${siteUrl}/android-chrome-512x512.png`,
+    logo: { "@type": "ImageObject", url: `${siteUrl}/android-chrome-512x512.png` },
     image: `${siteUrl}/images/hero.webp`,
+    description: siteConfig.description,
   };
 
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;

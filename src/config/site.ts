@@ -7,6 +7,8 @@ export interface SiteConfig {
   url: string;
   supportEmail: string;
   gameUrl?: string;
+  websiteUrl?: string;
+  steamCommunityUrl?: string;
   heroVideoId?: string;
   social?: {
     discord?: string;
@@ -25,8 +27,10 @@ export const siteConfig: SiteConfig = {
   tagline: "Demo Guides, Bosses, Totems & Movement Tips",
   description: "Fan-made Winds of Viridia wiki covering the demo, movement and grappling, bosses, Totems, the Mothbug companion, and release updates.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://windsofviridia.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://windsofviridia.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@windsofviridia.top",
   gameUrl: "https://store.steampowered.com/app/5178570/Winds_of_Viridia/",
+  websiteUrl: "https://windsofviridia.com",
+  steamCommunityUrl: "https://steamcommunity.com/app/5178570",
   heroVideoId: "t_Ldq6eq0nQ", // Winds of Viridia – Reveal Trailer – Nintendo Switch 2
   social: {
     youtube: "https://www.youtube.com/watch?v=t_Ldq6eq0nQ",

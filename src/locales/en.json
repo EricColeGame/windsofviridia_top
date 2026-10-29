@@ -2,8 +2,8 @@
   "site": {
     "name": "Winds of Viridia Wiki",
     "shortName": "Winds of Viridia",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to Winds of Viridia on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
+    "tagline": "Demo Guides, Bosses, Relics & Movement Tips",
+    "description": "Explore Winds of Viridia with gameplay guides, boss strategies, movement tips, relic and Totem details, Mothbug companion information, demo tips, and release updates.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -30,19 +30,19 @@
       "description": "Complete Winds of Viridia guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "Winds of Viridia",
-      "description": "Master your restaurant in Winds of Viridia on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Fantasy Action Adventure",
+      "title": "Winds of Viridia Wiki",
+      "description": "Explore a handcrafted fantasy world, master fluid movement and grappling, battle frenzied beasts, collect powerful relics, and uncover the secrets of Viridia with your Mothbug companion.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "Early 2027 Release",
+        "Demo Available Now",
+        "PC & Nintendo Switch 2",
+        "Singleplayer"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "secondaryCta": "Wishlist on Steam",
+      "tertiaryCta": "Official Website",
+      "videoLabel": "Official reveal trailer"
     },
     "updates": {
       "title": "Latest Updates",
@@ -342,10 +342,10 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master Winds of Viridia?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Begin Your Journey Through Viridia",
+      "description": "Master grappling, battle frenzied beasts, uncover ancient relics, and follow Mothbug through a handcrafted fantasy adventure.",
       "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "secondary": "Wishlist on Steam"
     }
   },
   "bosses": {
@@ -380,20 +380,20 @@
   },
   "footer": {
     "aboutTitle": "Winds of Viridia Wiki",
-    "about": "Winds of Viridia Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "about": "Winds of Viridia Wiki is an independent fan-built guide hub covering the demo, movement and grappling, bosses, relics and Totems, the Mothbug companion, and release information.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 Winds of Viridia Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play Winds of Viridia",
-    "officialDiscord": "Official Discord",
-    "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "copyright": "2026 Winds of Viridia Wiki. Not affiliated with Shark Jump or Nintendo.",
+    "description": "Single-player fantasy action adventure from Shark Jump, coming to PC and Nintendo Switch 2 in early 2027.",
+    "playGame": "Wishlist on Steam",
+    "officialDiscord": "Steam Community",
+    "officialYoutube": "Official Reveal Trailer",
+    "vvBuilder": "Official Website",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
+    "raceGuides": "Maps & Exploration",
     "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "buildGuide": "Skills & Movement",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
